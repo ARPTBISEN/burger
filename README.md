@@ -1,1 +1,2 @@
-# burger
+# synchronousBallMovement
+Ball moving synchronously
